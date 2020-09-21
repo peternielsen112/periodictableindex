@@ -252,33 +252,98 @@ elif input = "indium" or "49" or "Indium" or "In" or "in":
 	print("Average Atomic Mass: 114.82 u")
 	
 
-elif input == "palladium" or "50" or "Palladium" or "Pd" or "pd":
-	print("Palladium (Pd):")
-	print("Atomic Number: 46")
-	print("Average Atomic Mass: 106.42 u")
+elif input == "tin" or "50" or "Tin" or "Sn" or "sn":
+	print("Tin (Sn):")
+	print("Atomic Number: 50")
+	print("Average Atomic Mass: 118.71 u")
 	
 
-elif input == "palladium" or "46" or "Palladium" or "Pd" or "pd":
-	print("Palladium (Pd):")
-	print("Atomic Number: 46")
-	print("Average Atomic Mass: 106.42 u")
+elif input == "antimony" or "51" or "Antimony" or "Sb" or "sb":
+	print("Antimony (Sb):")
+	print("Atomic Number: 51")
+	print("Average Atomic Mass: 121.76 u")
 	
 
-elif input == "palladium" or "46" or "Palladium" or "Pd" or "pd":
-	print("Palladium (Pd):")
-	print("Atomic Number: 46")
-	print("Average Atomic Mass: 106.42 u")
+elif input == "tellurium" or "52" or "Tellurium" or "Te" or "te":
+	print("Tellurium (Te):")
+	print("Atomic Number: 52")
+	print("Average Atomic Mass: 127.60 u")
 	
 
-elif input == "palladium" or "46" or "Palladium" or "Pd" or "pd":
-	print("Palladium (Pd):")
-	print("Atomic Number: 46")
-	print("Average Atomic Mass: 106.42 u")
+elif input == "iodine" or "53" or "Iodine" or "I" or "i":
+	print("Iodine (I):")
+	print("Atomic Number: 53")
+	print("Average Atomic Mass: 126.90 u")
 	
+elif input == "xenon" or "54" or "Xenon" or "Xe" or "xe":
+	print("Xenon (Xe):")
+	print("Atomic Number: 54")
+	print("Average Atomic Mass: 131.29 u")
+
+elif input == "cesium" or "55" or "Cesium" or "Cs" or "cs":
+	print("Cesium (Cs):")
+	print("Atomic Number: 55")
+	print("Average Atomic Mass: 132.91 u")
+
+elif input == "barium" or "56" or "Barium" or "Ba" or "ba":
+	print("Barium (Ba):")
+	print("Atomic Number: 56")
+	print("Average Atomic Mass: 137.33 u")
+
+elif input == "lanthanum" or "57" or "Lanthanum" or "La" or "la":
+	print("Lanthanum (La):")
+	print("Atomic Number: 57")
+	print("Average Atomic Mass: 138.91 u")
+
+elif input == "iodine" or "53" or "Iodine" or "I" or "i":
+	print("Iodine (I):")
+	print("Atomic Number: 53")
+	print("Average Atomic Mass: 126.90 u")
+
+elif input == "iodine" or "53" or "Iodine" or "I" or "i":
+	print("Iodine (I):")
+	print("Atomic Number: 53")
+	print("Average Atomic Mass: 126.90 u")
+
+elif input == "iodine" or "53" or "Iodine" or "I" or "i":
+	print("Iodine (I):")
+	print("Atomic Number: 53")
+	print("Average Atomic Mass: 126.90 u")
+
+elif input == "iodine" or "53" or "Iodine" or "I" or "i":
+	print("Iodine (I):")
+	print("Atomic Number: 53")
+	print("Average Atomic Mass: 126.90 u")
+	
+elif input == "iodine" or "53" or "Iodine" or "I" or "i":
+	print("Iodine (I):")
+	print("Atomic Number: 53")
+	print("Average Atomic Mass: 126.90 u")
+
+elif input == "iodine" or "53" or "Iodine" or "I" or "i":
+	print("Iodine (I):")
+	print("Atomic Number: 53")
+	print("Average Atomic Mass: 126.90 u")
+
+elif input == "iodine" or "53" or "Iodine" or "I" or "i":
+	print("Iodine (I):")
+	print("Atomic Number: 53")
+	print("Average Atomic Mass: 126.90 u")
+
+elif input == "iodine" or "53" or "Iodine" or "I" or "i":
+	print("Iodine (I):")
+	print("Atomic Number: 53")
+	print("Average Atomic Mass: 126.90 u")
+
+elif input == "iodine" or "53" or "Iodine" or "I" or "i":
+	print("Iodine (I):")
+	print("Atomic Number: 53")
+	print("Average Atomic Mass: 126.90 u")
+
 elif input == "help":
 	print("Periodic Table Lookup:")
-	print("Enter an element identifier - hydrogen, 1, Hydrogen, h, H, spelled correctly - and a small bit of information will be pulled up.")
+	print("Enter an element identifier - hydrogen, 1, Hydrogen, h, H, spelled correctly - and a small bit of information will be pulled up. If the average atomic mass is in parentheses, it refers to the atomic mass of the most stable isotope.")
 
 else:
 	print("Not a proper identifier.")
-	print("Examples: H, Hydrogen, hydrogen")
+	print("Examples: H, Hydrogen, hydrogen, 1")
