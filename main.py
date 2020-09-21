@@ -233,6 +233,48 @@ elif input == "palladium" or "46" or "Palladium" or "Pd" or "pd":
 	print("Atomic Number: 46")
 	print("Average Atomic Mass: 106.42 u")
 
+
+elif input == "silver" or "47" or "Silver" or "Ag" or "ag":
+	print("Silver (Ag):")
+	print("Atomic Number: 47")
+	print("Average Atomic Mass: 107.87 u")
+	
+
+elif input == "cadmium" or "48" or "Cadmium" or "Cd" or "cd":
+	print("Cadmium (Cd):")
+	print("Atomic Number: 48")
+	print("Average Atomic Mass: 112.41 u")
+	
+
+elif input = "indium" or "49" or "Indium" or "In" or "in":
+	print("Indium (In):")
+	print("Atomic Number: 49")
+	print("Average Atomic Mass: 114.82 u")
+	
+
+elif input == "palladium" or "50" or "Palladium" or "Pd" or "pd":
+	print("Palladium (Pd):")
+	print("Atomic Number: 46")
+	print("Average Atomic Mass: 106.42 u")
+	
+
+elif input == "palladium" or "46" or "Palladium" or "Pd" or "pd":
+	print("Palladium (Pd):")
+	print("Atomic Number: 46")
+	print("Average Atomic Mass: 106.42 u")
+	
+
+elif input == "palladium" or "46" or "Palladium" or "Pd" or "pd":
+	print("Palladium (Pd):")
+	print("Atomic Number: 46")
+	print("Average Atomic Mass: 106.42 u")
+	
+
+elif input == "palladium" or "46" or "Palladium" or "Pd" or "pd":
+	print("Palladium (Pd):")
+	print("Atomic Number: 46")
+	print("Average Atomic Mass: 106.42 u")
+	
 elif input == "help":
 	print("Periodic Table Lookup:")
 	print("Enter an element identifier - hydrogen, 1, Hydrogen, h, H, spelled correctly - and a small bit of information will be pulled up.")
