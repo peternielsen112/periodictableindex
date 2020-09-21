@@ -295,51 +295,311 @@ elif input == "lanthanum" or "57" or "Lanthanum" or "La" or "la":
 	print("Atomic Number: 57")
 	print("Average Atomic Mass: 138.91 u")
 
-elif input == "iodine" or "53" or "Iodine" or "I" or "i":
-	print("Iodine (I):")
-	print("Atomic Number: 53")
-	print("Average Atomic Mass: 126.90 u")
+elif input == "cerium" or "58" or "Cerium" or "Ce" or "ce":
+	print("Cerium (Ce):")
+	print("Atomic Number: 58")
+	print("Average Atomic Mass: 140.12 u")
 
-elif input == "iodine" or "53" or "Iodine" or "I" or "i":
-	print("Iodine (I):")
-	print("Atomic Number: 53")
-	print("Average Atomic Mass: 126.90 u")
+elif input == "praseodymium" or "59" or "Praseodymium" or "Pr" or "pr":
+	print("Praseodymium (Pr):")
+	print("Atomic Number: 59")
+	print("Average Atomic Mass: 140.91 u")
 
-elif input == "iodine" or "53" or "Iodine" or "I" or "i":
-	print("Iodine (I):")
-	print("Atomic Number: 53")
-	print("Average Atomic Mass: 126.90 u")
+elif input == "neodymium" or "60" or "Neodymium" or "Nd" or "nd":
+	print("Neodymium (Nd):")
+	print("Atomic Number: 60")
+	print("Average Atomic Mass: 144.24 u")
 
-elif input == "iodine" or "53" or "Iodine" or "I" or "i":
-	print("Iodine (I):")
-	print("Atomic Number: 53")
-	print("Average Atomic Mass: 126.90 u")
+elif input == "promethium" or "61" or "Promethuum" or "Pm" or "pm":
+	print("Promethium (Pm):")
+	print("Atomic Number: 61")
+	print("Average Atomic Mass: (145.00) u")
 	
-elif input == "iodine" or "53" or "Iodine" or "I" or "i":
-	print("Iodine (I):")
-	print("Atomic Number: 53")
-	print("Average Atomic Mass: 126.90 u")
+elif input == "samarium" or "62" or "Samarium" or "Sm" or "sm":
+	print("Samarium (Sm):")
+	print("Atomic Number: 62")
+	print("Average Atomic Mass: 150.36 u")
 
-elif input == "iodine" or "53" or "Iodine" or "I" or "i":
-	print("Iodine (I):")
-	print("Atomic Number: 53")
-	print("Average Atomic Mass: 126.90 u")
+elif input == "europium" or "63" or "Europium" or "Eu" or "eu":
+	print("Europium (Eu):")
+	print("Atomic Number: 63")
+	print("Average Atomic Mass: 151.96 u")
 
-elif input == "iodine" or "53" or "Iodine" or "I" or "i":
-	print("Iodine (I):")
-	print("Atomic Number: 53")
-	print("Average Atomic Mass: 126.90 u")
+elif input == "gadolinium" or "64" or "Gadolinium" or "Gd" or "gd":
+	print("Gadolinium (Gd):")
+	print("Atomic Number: 64")
+	print("Average Atomic Mass: 157.25 u")
 
-elif input == "iodine" or "53" or "Iodine" or "I" or "i":
-	print("Iodine (I):")
-	print("Atomic Number: 53")
-	print("Average Atomic Mass: 126.90 u")
+elif input == "terbium" or "65" or "Terbium" or "Tb" or "tb":
+	print("Terbium (Tb):")
+	print("Atomic Number: 65")
+	print("Average Atomic Mass: 158.93 u")
 
-elif input == "iodine" or "53" or "Iodine" or "I" or "i":
-	print("Iodine (I):")
-	print("Atomic Number: 53")
-	print("Average Atomic Mass: 126.90 u")
+elif input == "dysprosium" or "66" or "Dysprosium" or "Dy" or "dy":
+	print("Dysprosium (Dy):")
+	print("Atomic Number: 66")
+	print("Average Atomic Mass: 162.50 u")
+	
+elif input == "holmium" or "67" or "Holmium" or "Ho" or "ho":
+	print("Holmium (Ho):")
+	print("Atomic Number: 67")
+	print("Average Atomic Mass: 164.93 u")
 
+elif input == "erbium" or "68" or "Erbium" or "Er" or "er":
+	print("Erbium (Er):")
+	print("Atomic Number: 68")
+	print("Average Atomic Mass: 167.26 u")
+
+elif input == "thulium" or "69" or "Thulium" or "Tm" or "tm":
+	print("Thulium (Tm):")
+	print("Atomic Number: 69")
+	print("Average Atomic Mass: 168.93 u")
+	
+elif input == "ytterbium" or "70" or "Ytterbium" or "Yb" or "yb":
+	print("Ytterbium (Yb):")
+	print("Atomic Number: 70")
+	print("Average Atomic Mass: 173.04 u")
+	
+elif input == "lutetium" or "71" or "Lutetium" or "Lu" or "lu":
+	print("Lutetium (Lu):")
+	print("Atomic Number: 71")
+	print("Average Atomic Mass: 174.97 u")
+
+elif input == "hafnium" or "72" or "Hafnium" or "Hf" or "hf":
+	print("Hafnium (Hf):")
+	print("Atomic Number: 72")
+	print("Average Atomic Mass: 178.49 u")
+
+elif input == "tantalum" or "73" or "Tantalum" or "Ta" or "ta":
+	print("Tantalum (Ta):")
+	print("Atomic Number: 73")
+	print("Average Atomic Mass: 180.95 u")
+	
+elif input == "tungsten" or "74" or "Tungsten" or "W" or "w":
+	print("Tungsten (W):")
+	print("Atomic Number: 74")
+	print("Average Atomic Mass: 183.84 u")
+
+elif input == "rhenium" or "75" or "Rhenium" or "Re" or "re":
+	print("Rhenium (Re):")
+	print("Atomic Number: 75")
+	print("Average Atomic Mass: 186.21 u")
+	
+elif input == "osmium" or "76" or "Osmium" or "Os" or "os":
+	print("Osmium (Os):")
+	print("Atomic Number: 76")
+	print("Average Atomic Mass: 190.23 u")
+
+elif input == "iridium" or "77" or "Iridium" or "Ir" or "ir":
+	print("Iridium (Ir):")
+	print("Atomic Number: 77")
+	print("Average Atomic Mass: 192.22 u")
+	
+elif input == "platinum" or "78" or "Platinum" or "Pt" or "pt":
+	print("Platinum (Pt):")
+	print("Atomic Number: 78")
+	print("Average Atomic Mass: 195.08 u")
+	
+elif input == "gold" or "79" or "Gold" or "Au" or "au":
+	print("Gold (Au):")
+	print("Atomic Number: 79")
+	print("Average Atomic Mass: 196.97 u")
+	
+elif input == "mercury" or "80" or "Mercury" or "Hg" or "hg":
+	print("Mercury (Hg):")
+	print("Atomic Number: 80")
+	print("Average Atomic Mass: 200.59 u")
+
+elif input == "thallium" or "81" or "Thallium" or "Tl" or "tl":
+	print("Thallium (Tl):")
+	print("Atomic Number: 81")
+	print("Average Atomic Mass: 204.38 u")
+
+elif input == "lead" or "82" or "Lead" or "Pb" or "pb":
+	print("Lead (Pb):")
+	print("Atomic Number: 82")
+	print("Average Atomic Mass: 207.2 u")
+
+elif input == "bsimuth" or "83" or "Bismuth" or "Bi" or "bi":
+	print("Bismuth (Bi):")
+	print("Atomic Number: 83")
+	print("Average Atomic Mass: 208.98 u")
+
+elif input == "polonium" or "84" or "Polonium" or "Po" or "po":
+	print("Polonium (Po):")
+	print("Atomic Number: 84")
+	print("Average Atomic Mass: (209.00) u")
+
+elif input == "astatine" or "85" or "Astatine" or "At" or "at":
+	print("Astatine (At):")
+	print("Atomic Number: 85")
+	print("Average Atomic Mass: (210.00) u")
+
+elif input == "radon" or "86" or "Radon" or "Rn" or "rn":
+	print("Radon (Rn):")
+	print("Atomic Number: 86")
+	print("Average Atomic Mass: (222.00) u")
+
+elif input == "francium" or "87" or "Francium" or "Fr" or "fr":
+	print("Francium (Fr):")
+	print("Atomic Number: 87")
+	print("Average Atomic Mass: (223.00) u")
+	
+elif input == "radium" or "88" or "Radium" or "Ra" or "ra":
+	print("Radium (Ra):")
+	print("Atomic Number: 88")
+	print("Average Atomic Mass: (226.00) u")
+
+elif input == "actinium" or "89" or "Actinium" or "Ac" or "ac":
+	print("Actinium (Ac):")
+	print("Atomic Number: 89")
+	print("Average Atomic Mass: (227.00) u")
+
+elif input == "thorium" or "90" or "Thorium" or "Th" or "th":
+	print("Thorium (Th):")
+	print("Atomic Number: 90")
+	print("Average Atomic Mass: 232.04 u")
+
+elif input == "protactinium" or "91" or "Protactinium" or "Pa" or "pa":
+	print("Protactinium (Pa):")
+	print("Atomic Number: 91")
+	print("Average Atomic Mass: 231.04 u")
+
+elif input == "uranium" or "92" or "Uranium" or "U" or "u":
+	print("Uranium (U):")
+	print("Atomic Number: 92")
+	print("Average Atomic Mass: 238.03 u")
+
+elif input == "neptunium" or "93" or "Neptunium" or "Np" or "np":
+	print("Neptunium (Np):")
+	print("Atomic Number: 93")
+	print("Average Atomic Mass: (237.00) u")
+
+elif input == "plutonium" or "94" or "Plutonium" or "Pu" or "pu":
+	print("Plutonium (Pu):")
+	print("Atomic Number: 94")
+	print("Average Atomic Mass: (244.00) u")
+
+elif input == "americium" or "95" or "Americium" or "Am" or "am":
+	print("Americium (Am):")
+	print("Atomic Number: 95")
+	print("Average Atomic Mass: (243.00) u")
+
+elif input == "curium" or "96" or "Curium" or "Cm" or "cm":
+	print("Curium (Cm):")
+	print("Atomic Number: 96")
+	print("Average Atomic Mass: (247.00) u")
+
+elif input == "berkelium" or "97" or "Berkelium" or "Bk" or "bk":
+	print("Berkelium (Bk):")
+	print("Atomic Number: 97")
+	print("Average Atomic Mass: (247.00) u")
+
+elif input == "Californium" or "98" or "californium" or "Cf" or "cf":
+	print("Californium (Cf):")
+	print("Atomic Number: 98")
+	print("Average Atomic Mass: (251.00) u")
+
+elif input == "Einsteinium" or "99" or "einsteinium" or "Es" or "es":
+	print("Einsteinium (Es):")
+	print("Atomic Number: 99")
+	print("Average Atomic Mass: (252.00) u")
+
+elif input == "fermium" or "100" or "Fermium" or "Fm" or "fm":
+	print("Fermium (Fm):")
+	print("Atomic Number: 100")
+	print("Average Atomic Mass: (257.00) u")
+
+elif input == "Mendelevium" or "101" or "mendelevium" or "Md" or "md":
+	print("Mendelevium (Md):")
+	print("Atomic Number: 101")
+	print("Average Atomic Mass: (258.00) u")
+
+elif input == "nobelium" or "102" or "Nobelium" or "No" or "no":
+	print("Nobelium (No):")
+	print("Atomic Number: 102")
+	print("Average Atomic Mass: (259.00) u")
+
+elif input == "Lawrencium" or "103" or "lawrencium" or "Lr" or "lr":
+	print("Lawrencium (Lr):")
+	print("Atomic Number: 103")
+	print("Average Atomic Mass: (262.00) u")
+
+elif input == "rutherfordium" or "104" or "Rutherfordium" or "Rf" or "rf":
+	print("Rutherfordium (Rf):")
+	print("Atomic Number: 104")
+	print("Average Atomic Mass: (261.00) u")
+
+elif input == "dubnium" or "105" or "Dubnium" or "Db" or "db":
+	print("Dubnium (Db):")
+	print("Atomic Number: 105")
+	print("Average Atomic Mass: (262.00) u")
+
+elif input == "seaborgium" or "106" or "Seaborgium" or "Sg" or "sg":
+	print("Seaborgium (Sg):")
+	print("Atomic Number: 106")
+	print("Average Atomic Mass: (266.00) u")
+
+elif input == "Bohrium" or "107" or "bohrium" or "Bh" or "bh":
+	print("Bohrium (Bh):")
+	print("Atomic Number: 107")
+	print("Average Atomic Mass: (264.00) u")
+
+elif input == "hassium" or "108" or "Hassium" or "Hs" or "hs":
+	print("Hassium (Hs):")
+	print("Atomic Number: 108")
+	print("Average Atomic Mass: (269.00) u")
+
+elif input == "meitnerium" or "109" or "Meitnerium" or "Mt" or "mt":
+	print("Meitnerium (Mt):")
+	print("Atomic Number: 109")
+	print("Average Atomic Mass: (268.00) u")
+
+elif input == "darmstadtium" or "110" or "Darmstadtium" or "Ds" or "ds":
+	print("Darmstadtium (Ds):")
+	print("Atomic Number: 110")
+	print("Average Atomic Mass: (281.00) u")
+
+elif input == "roentgenium" or "111" or "Roentgenium" or "Rg" or "rg":
+	print("Roentgenium (Rg):")
+	print("Atomic Number: 111")
+	print("Average Atomic Mass: (280.00) u")
+
+elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
+	print("Copernicium (Cn):")
+	print("Atomic Number: 112")
+	print("Average Atomic Mass: (285.00) u")
+
+elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
+	print("Copernicium (Cn):")
+	print("Atomic Number: 112")
+	print("Average Atomic Mass: (285.00) u")
+
+elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
+	print("Copernicium (Cn):")
+	print("Atomic Number: 112")
+	print("Average Atomic Mass: (285.00) u")
+
+elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
+	print("Copernicium (Cn):")
+	print("Atomic Number: 112")
+	print("Average Atomic Mass: (285.00) u")
+
+elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
+	print("Copernicium (Cn):")
+	print("Atomic Number: 112")
+	print("Average Atomic Mass: (285.00) u")
+
+elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
+	print("Copernicium (Cn):")
+	print("Atomic Number: 112")
+	print("Average Atomic Mass: (285.00) u")
+
+elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
+	print("Copernicium (Cn):")
+	print("Atomic Number: 112")
+	print("Average Atomic Mass: (285.00) u")
+	
 elif input == "help":
 	print("Periodic Table Lookup:")
 	print("Enter an element identifier - hydrogen, 1, Hydrogen, h, H, spelled correctly - and a small bit of information will be pulled up. If the average atomic mass is in parentheses, it refers to the atomic mass of the most stable isotope.")
@@ -347,3 +607,4 @@ elif input == "help":
 else:
 	print("Not a proper identifier.")
 	print("Examples: H, Hydrogen, hydrogen, 1")
+	print("It is also possible that there is an error in the code. In this event, please contact me at dirigo112@gmail.com.")
