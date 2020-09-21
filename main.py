@@ -570,35 +570,35 @@ elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
 	print("Atomic Number: 112")
 	print("Average Atomic Mass: (285.00) u")
 
-elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
-	print("Copernicium (Cn):")
-	print("Atomic Number: 112")
-	print("Average Atomic Mass: (285.00) u")
+elif input == "nihonium" or "113" or "Nihonium" or "Nh" or "nh":
+	print("Nihonium (Nh):")
+	print("Atomic Number: 113")
+	print("Average Atomic Mass: (284.00) u")
 
-elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
-	print("Copernicium (Cn):")
-	print("Atomic Number: 112")
-	print("Average Atomic Mass: (285.00) u")
+elif input == "Flerovium" or "114" or "flerovium" or "Fl" or "fl":
+	print("Flerovium (Fl):")
+	print("Atomic Number: 114")
+	print("Average Atomic Mass: (289.00) u")
 
-elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
-	print("Copernicium (Cn):")
-	print("Atomic Number: 112")
-	print("Average Atomic Mass: (285.00) u")
+elif input == "moscovium" or "115" or "Moscovium" or "Mc" or "mc":
+	print("Moscovium (Mc):")
+	print("Atomic Number: 115")
+	print("Average Atomic Mass: (288.00) u")
 
-elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
-	print("Copernicium (Cn):")
-	print("Atomic Number: 112")
-	print("Average Atomic Mass: (285.00) u")
+elif input == "Livermorium" or "116" or "livermorium" or "Lv" or "lv":
+	print("Livermorium (Lv):")
+	print("Atomic Number: 116")
+	print("Average Atomic Mass: (293.00) u")
 
-elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
-	print("Copernicium (Cn):")
-	print("Atomic Number: 112")
-	print("Average Atomic Mass: (285.00) u")
+elif input == "tennessine" or "117" or "Tennessine" or "Ts" or "ts":
+	print("Tennessine (Ts):")
+	print("Atomic Number: 117")
+	print("Average Atomic Mass: (294.00) u")
 
-elif input == "Copernicium" or "112" or "copernicium" or "Cn" or "cn":
-	print("Copernicium (Cn):")
-	print("Atomic Number: 112")
-	print("Average Atomic Mass: (285.00) u")
+elif input == "oganesson" or "118" or "Oganesson" or "Og" or "og":
+	print("Copernicium (Og):")
+	print("Atomic Number: 118")
+	print("Average Atomic Mass: (294.00) u")
 	
 elif input == "help":
 	print("Periodic Table Lookup:")
